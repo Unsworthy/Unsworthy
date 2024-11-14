@@ -1,7 +1,7 @@
 # 👋  Hello World 🌍, I'am Rijal Kamal 😎
 
 <img src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=790b7611r5yedd0ikquok0c38oji0xwwdliubx64nb9y71p7&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-<img src="me.jpg"/>
+
 
 - 🎓 I’m School In<a href="http://www.smk-pi.sch.id/">SMK Prakarya Internasional</a>
 - 👀 I’m interested in learning web technologies and enjoy exploring everything about data
