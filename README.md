@@ -40,3 +40,5 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237A11F7?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Static Badge](https://img.shields.io/badge/react-%2358C4DC?style=for-the-badge&logo=react&logoColor=white)
+![Static Badge](https://img.shields.io/badge/express.js-%23000000?style=for-the-badge&logo=express&logoColor=white)
+
