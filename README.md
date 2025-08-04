@@ -13,6 +13,7 @@
 
 ###  🌐 Social Media
 [![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/feeriuz/)
+[![Youtube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.youtube.com/@Knathh/)
 
 ### Support me  :3
 (https://saweria.co/RijaLNath)
