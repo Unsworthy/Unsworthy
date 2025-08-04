@@ -29,16 +29,22 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.simpleicons.org/express/000000" width="36" height="36" alt="Express.js" />
 </a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/flutter/02569B" width="36" height="36" alt="Flutter" />
+</a>
+
 <br>
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23F23B2F?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 <br>
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237A11F7?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Static Badge](https://img.shields.io/badge/react-%2358C4DC?style=for-the-badge&logo=react&logoColor=white)
-![Static Badge](https://img.shields.io/badge/express.js-%23000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/react-%2358C4DC?style=for-the-badge&logo=react&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/express.js-%23000000?style=for-the-badge&logo=express&logoColor=white)
 
