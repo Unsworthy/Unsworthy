@@ -30,7 +30,7 @@
   <img src="https://cdn.simpleicons.org/express/000000" width="36" height="36" alt="Express.js" />
 </a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/flutter/02569B" width="36" height="36" alt="Flutter" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
 </a>
 <br>
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
